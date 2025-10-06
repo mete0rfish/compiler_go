@@ -1,3 +1,3 @@
-module example.com/m/v2
+module monkey
 
 go 1.25.1
